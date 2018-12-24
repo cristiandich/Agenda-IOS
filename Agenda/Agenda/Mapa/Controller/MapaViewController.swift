@@ -2,9 +2,7 @@
 //  MapaViewController.swift
 //  Agenda
 //
-//  Created by Alura on 11/12/17.
-//  Copyright © 2017 Alura. All rights reserved.
-//
+
 
 import UIKit
 import MapKit
