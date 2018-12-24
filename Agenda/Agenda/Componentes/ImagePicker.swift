@@ -1,10 +1,4 @@
-//
-//  ImagePicker.swift
-//  Agenda
-//
-//  Created by Alura Laranja on 04/12/17.
-//  Copyright © 2017 Alura. All rights reserved.
-//
+
 
 import UIKit
 
